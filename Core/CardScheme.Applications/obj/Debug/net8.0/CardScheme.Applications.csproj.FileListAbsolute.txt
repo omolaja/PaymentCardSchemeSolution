@@ -1,0 +1,11 @@
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/bin/Debug/net8.0/CardScheme.Applications.deps.json
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/bin/Debug/net8.0/CardScheme.Applications.dll
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/bin/Debug/net8.0/CardScheme.Applications.pdb
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/obj/Debug/net8.0/CardScheme.Applications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/obj/Debug/net8.0/CardScheme.Applications.AssemblyInfoInputs.cache
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/obj/Debug/net8.0/CardScheme.Applications.AssemblyInfo.cs
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/obj/Debug/net8.0/CardScheme.Applications.csproj.CoreCompileInputs.cache
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/obj/Debug/net8.0/CardScheme.Applications.dll
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/obj/Debug/net8.0/refint/CardScheme.Applications.dll
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/obj/Debug/net8.0/CardScheme.Applications.pdb
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Applications/obj/Debug/net8.0/ref/CardScheme.Applications.dll
