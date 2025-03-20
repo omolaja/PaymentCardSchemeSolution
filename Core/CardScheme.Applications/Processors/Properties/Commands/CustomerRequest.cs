@@ -37,6 +37,8 @@ namespace CardScheme.Applications.Processors.Properties.Commands
 
             if(customer != null)
             {
+                _response.statusCode = "01";
+                _response.status = "Received a null request!!!";
                 return _response;
             }
 

@@ -4,7 +4,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CardScheme.Infrastructure.AppContext
 {
+<<<<<<< Updated upstream
 	       public AppDbContext(DbContextOptions<AppDbContext> options): base(options)
+=======
+	public class AppDbContext : DbContext
+	{
+
+		public AppDbContext(DbContextOptions<AppDbContext> options): base(options)
+>>>>>>> Stashed changes
 		{
 
 		}
@@ -18,5 +25,9 @@ namespace CardScheme.Infrastructure.AppContext
 		public DbSet<CustomerAddress> CustomerAddresses { get; set; }
 
 		public DbSet<CustomerCards> CustomerCards { get; set; }
+<<<<<<< Updated upstream
+=======
+	}
+>>>>>>> Stashed changes
 }
 
