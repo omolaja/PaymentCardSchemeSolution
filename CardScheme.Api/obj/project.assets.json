@@ -4689,33 +4689,40 @@
     ]
   },
   "packageFolders": {
-    "/Users/oladipo/.nuget/packages/": {}
+    "C:\\Users\\Dipo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oladipo/Projects/PaymentCardSchemeSolution/CardScheme.Api/CardScheme.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Dipo\\source\\repos\\PaymentCardScheme\\CardScheme.Api\\CardScheme.Api.csproj",
       "projectName": "CardScheme.Api",
-      "projectPath": "/Users/oladipo/Projects/PaymentCardSchemeSolution/CardScheme.Api/CardScheme.Api.csproj",
-      "packagesPath": "/Users/oladipo/.nuget/packages/",
-      "outputPath": "/Users/oladipo/Projects/PaymentCardSchemeSolution/CardScheme.Api/obj/",
+      "projectPath": "C:\\Users\\Dipo\\source\\repos\\PaymentCardScheme\\CardScheme.Api\\CardScheme.Api.csproj",
+      "packagesPath": "C:\\Users\\Dipo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dipo\\source\\repos\\PaymentCardScheme\\CardScheme.Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/oladipo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Dipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/oladipo/Projects/PaymentCardSchemeSolution/CardScheme.Infrastructure/CardScheme.Infrastructure.csproj": {
-              "projectPath": "/Users/oladipo/Projects/PaymentCardSchemeSolution/CardScheme.Infrastructure/CardScheme.Infrastructure.csproj"
+            "C:\\Users\\Dipo\\source\\repos\\PaymentCardScheme\\CardScheme.Infrastructure\\CardScheme.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Dipo\\source\\repos\\PaymentCardScheme\\CardScheme.Infrastructure\\CardScheme.Infrastructure.csproj"
             }
           }
         }
@@ -4724,7 +4731,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -4760,7 +4773,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
