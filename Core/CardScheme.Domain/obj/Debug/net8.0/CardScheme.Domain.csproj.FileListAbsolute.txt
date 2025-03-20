@@ -9,3 +9,4 @@
 /Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Domain/obj/Debug/net8.0/refint/CardScheme.Domain.dll
 /Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Domain/obj/Debug/net8.0/CardScheme.Domain.pdb
 /Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Domain/obj/Debug/net8.0/ref/CardScheme.Domain.dll
+/Users/oladipo/Projects/PaymentCardSchemeSolution/Core/CardScheme.Domain/obj/Debug/net8.0/CardScheme.Domain.sourcelink.json

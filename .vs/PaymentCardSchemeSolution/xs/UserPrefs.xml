@@ -1,8 +1,6 @@
 ﻿<Properties StartupConfiguration="{C4F5EB6E-092B-4E93-BE4A-2F5F04061B3F}|https">
   <MonoDevelop.Ide.ItemProperties.CardScheme.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.Core.CardScheme.Applications FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Core.CardScheme.Domain FirstBuild="True" />
   <DisabledProjects>
     <String>CardScheme.Domain/CardScheme.Application/CardScheme.Application.csproj</String>
   </DisabledProjects>
