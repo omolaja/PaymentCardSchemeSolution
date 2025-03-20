@@ -1,0 +1,12 @@
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\bin\Debug\net8.0\CardScheme.Domain.deps.json
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\bin\Debug\net8.0\CardScheme.Domain.dll
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\bin\Debug\net8.0\CardScheme.Domain.pdb
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\obj\Debug\net8.0\CardScheme.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\obj\Debug\net8.0\CardScheme.Domain.AssemblyInfoInputs.cache
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\obj\Debug\net8.0\CardScheme.Domain.AssemblyInfo.cs
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\obj\Debug\net8.0\CardScheme.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\obj\Debug\net8.0\CardScheme.Domain.sourcelink.json
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\obj\Debug\net8.0\CardScheme.Domain.dll
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\obj\Debug\net8.0\refint\CardScheme.Domain.dll
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\obj\Debug\net8.0\CardScheme.Domain.pdb
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Domain\obj\Debug\net8.0\ref\CardScheme.Domain.dll

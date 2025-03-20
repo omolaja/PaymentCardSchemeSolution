@@ -1,5 +1,6 @@
 ﻿using System;
 using CardScheme.Applications.Repositories;
+using CardScheme.Domain.Entity;
 using CardScheme.Infrastructure.AppContext;
 using CardScheme.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -14,7 +15,12 @@ namespace CardScheme.Infrastructure
 		{
 			return services
 				.AddTransient<ICustomers, CustomerRepo>()
-				.AddDbContext<AppDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("CardShemeDatabase")));
+                .AddTransient<Gender>()
+                .AddTransient<CardTypes>()
+                .AddTransient<CustomerAddress>()
+                .AddTransient<CustomerCards>()
+				.AddTransient<Response>()
+                .AddDbContext<AppDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("CardSchemeDatabase")));
 		}
 	}
 }

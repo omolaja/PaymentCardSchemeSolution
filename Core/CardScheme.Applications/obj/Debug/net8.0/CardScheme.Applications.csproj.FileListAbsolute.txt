@@ -1,0 +1,16 @@
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\bin\Debug\net8.0\CardScheme.Applications.deps.json
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\bin\Debug\net8.0\CardScheme.Applications.dll
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\bin\Debug\net8.0\CardScheme.Applications.pdb
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\bin\Debug\net8.0\CardScheme.Domain.dll
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\bin\Debug\net8.0\CardScheme.Domain.pdb
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\CardScheme.Applications.csproj.AssemblyReference.cache
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\CardScheme.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\CardScheme.Applications.AssemblyInfoInputs.cache
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\CardScheme.Applications.AssemblyInfo.cs
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\CardScheme.Applications.csproj.CoreCompileInputs.cache
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\CardScheme.Applications.sourcelink.json
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\CardSche.1BF63D90.Up2Date
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\CardScheme.Applications.dll
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\refint\CardScheme.Applications.dll
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\CardScheme.Applications.pdb
+C:\Users\Dipo\source\repos\PaymentCardScheme\Core\CardScheme.Applications\obj\Debug\net8.0\ref\CardScheme.Applications.dll
